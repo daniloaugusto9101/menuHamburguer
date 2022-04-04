@@ -1,9 +1,9 @@
 <p align="center">
- Projeto de Landing Page usando React com base do layout feito por Rafaella Ballerini
+ Projeto de Menu Hamburguer responsivo
 </p>
 
 <h1 align="center"> 
-Landing Page
+Menu Hamburguer 🚧 em contrução..🚧
 </h1>
 
 # Tabela de Conteúdos
