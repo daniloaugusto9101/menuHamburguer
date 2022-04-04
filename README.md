@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> 
-Menu Hamburguer 🚧 em construção..🚧
+Menu Hamburguer 🚧 em construção...🚧
 </h1>
 
 # Tabela de Conteúdos
