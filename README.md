@@ -29,7 +29,7 @@ Menu Hamburguer 🚧 em construção..🚧
 
 # Exemplo do site em funcionamento
 <div>
-<img src="./src/imglogoFooter.svg" width="150px">
+<img src="site.gif" width="150px">
 
 </div>
 
