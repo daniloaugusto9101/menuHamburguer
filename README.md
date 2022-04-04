@@ -11,7 +11,6 @@ Menu Hamburguer 🚧 em construção..🚧
 <!--ts-->
    * [Features](#Features)
    * [Exemplo do site](#Exemplo-do-site-em-funcionamento)
-   * [Pré-requisitos](#Pré-requisitos)
    * [Tecnologias](#Tecnologias-Utilizadas)
    * [Autor](#autor)
 
