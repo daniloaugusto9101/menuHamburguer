@@ -24,8 +24,8 @@ Menu Hamburguer 🚧 em construção..🚧
 - [x] Criação de páginas html
 - [x] Estilizando o CSS
 - [x] Animação com JavaScript
-- [x] Estilização menu hamburguer
-- [x] Publicação no git.io
+- [ ] Estilização menu hamburguer
+- [ ] Publicação no git.io
 
 
 # Exemplo do site em funcionamento
