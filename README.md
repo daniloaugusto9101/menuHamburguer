@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> 
-Menu Hamburguer 🚧 em construção...🚧
+Menu Hamburguer
 </h1>
 
 # Tabela de Conteúdos
@@ -24,12 +24,12 @@ Menu Hamburguer 🚧 em construção...🚧
 - [x] Estilizando o CSS
 - [x] Animação com JavaScript
 - [x] Estilização menu hamburguer
-- [ ] Publicação no git.io
+- [x] Publicação no git.io
 
 
 # Exemplo do site em funcionamento
 <div>
-<img src="site.gif" width="800px">
+<a href="https://www.linkedin.com/in/daniloaugusto9101" title="Danilo" target="_blank"><img src="site.gif" width="800px"></a>
 
 </div>
 
